@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">文件保存</string>
+    <string name="filename">文件名</string>
+    <string name="action_settings">Settings</string>
+	<string name="filecontent">文件内容</string>
+	<string name="button">保存</string>
+	<string name="success">保存成功</string>
+	<string name="fail">保存失败</string>
+</resources>
